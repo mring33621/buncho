@@ -1,5 +1,5 @@
 # BUNCHO
-![Buncho logo image](./buncho_logo.png)
+![Buncho logo image](./buncho_logo2.png)
 1. The *Buncho* Java library currently provides very simple support for feature flags.
 1. Just implement the 'FeatureFlags' interface and you're good to go.
 1. It has 2 default methods that might do everything you need.
